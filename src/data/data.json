@@ -1,0 +1,129 @@
+ [
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "imageURL": "https://example.com/images/toyota_camry.jpg",
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": "2.5 liters",
+            "horsepower": 203
+        },
+        "transmission": "Automatic",
+        "fuelType": "Gasoline",
+        "mileage": 25000,
+        "features": [
+            "Bluetooth connectivity",
+            "Backup camera",
+            "Keyless entry",
+            "Cruise control",
+            "Power windows"
+        ]
+    },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "color": "Blue",
+        "imageURL": "https://example.com/images/honda_civic.jpg",
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": "2.0 liters",
+            "horsepower": 158
+        },
+        "transmission": "CVT",
+        "fuelType": "Gasoline",
+        "mileage": 18000,
+        "features": [
+            "Apple CarPlay",
+            "Android Auto",
+            "Lane-keeping assist",
+            "Adaptive cruise control"
+        ]
+    },
+    {
+        "make": "Ford",
+        "model": "Escape",
+        "year": 2020,
+        "color": "Black",
+        "imageURL": "https://example.com/images/ford_escape.jpg",
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": "1.5 liters",
+            "horsepower": 181
+        },
+        "transmission": "Automatic",
+        "fuelType": "Hybrid",
+        "mileage": 22000,
+        "features": [
+            "SYNC 3 infotainment system",
+            "Blind-spot monitoring",
+            "Remote start",
+            "Power liftgate"
+        ]
+    },
+    {
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2020,
+        "color": "Red",
+        "imageURL": "https://example.com/images/chevrolet_malibu.jpg",
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": "1.5 liters",
+            "horsepower": 160
+        },
+        "transmission": "Automatic",
+        "fuelType": "Gasoline",
+        "mileage": 20000,
+        "features": [
+            "8-inch touchscreen",
+            "Apple CarPlay",
+            "Android Auto",
+            "Rearview camera"
+        ]
+    },
+    {
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2021,
+        "color": "White",
+        "imageURL": "https://example.com/images/nissan_altima.jpg",
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": "2.5 liters",
+            "horsepower": 182
+        },
+        "transmission": "CVT",
+        "fuelType": "Gasoline",
+        "mileage": 17000,
+        "features": [
+            "NissanConnect infotainment system",
+            "Rearview camera",
+            "Forward collision warning",
+            "Lane departure warning"
+        ]
+    },
+    {
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": 2021,
+        "color": "Gray",
+        "imageURL": "https://example.com/images/hyundai_elantra.jpg",
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": "2.0 liters",
+            "horsepower": 147
+        },
+        "transmission": "CVT",
+        "fuelType": "Gasoline",
+        "mileage": 19000,
+        "features": [
+            "8-inch touchscreen",
+            "Forward collision avoidance",
+            "Lane-keeping assist",
+            "Smart cruise control"
+        ]
+    }
+]
